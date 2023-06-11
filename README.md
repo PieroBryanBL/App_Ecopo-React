@@ -8,4 +8,11 @@ Ecopo está en desarrollo y se encuentra en una etapa temprana. Se espera seguir
 
 ![screenshot-localhost_5173-2023 06 11-15_09_30](https://github.com/PieroBryanBL/App_Ecopo-React/assets/107169260/d88419ea-76b6-473a-94f3-9c96a1af6eff)
 
-¡Gracias por tu interés en Ecopo!
+La captura posee un error, pero puedes ver la pagina al ejecutar:
+_______________
+
+npm install
+npm run dev
+
+_______________
+**¡Gracias por tu interés en Ecopo!**
